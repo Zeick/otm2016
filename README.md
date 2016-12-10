@@ -1,5 +1,5 @@
 # Ensimmäinen Markdown-dokumenttini!
-Markdown näyttäisi olevan tosi kätevä! Sillä saa *kursivoitua* ja **lihavoitua tekstiä**! Tässä on [linkki](/dokumentointi/kaytto-ohje.md) käyttöohjeeseen. [Määrittelyohje](/dokumentointi/maarittelyohje.md) löytyy myös nykyisin! :simple_smile:
+Markdown näyttäisi olevan tosi kätevä! Sillä saa *kursivoitua* ja **lihavoitua tekstiä**! Tässä on [linkki](/dokumentointi/kaytto-ohje.md) käyttöohjeeseen. [Määrittelyohje](/dokumentointi/maarittelydokumentti.md) löytyy myös nykyisin! :simple_smile:
 
 ## Alaotsikko: linkkejä verkkosivuille
 Mm. [reddit](http://www.reddit.com) käyttää Markdownia kommentointijärjestelmässä.
