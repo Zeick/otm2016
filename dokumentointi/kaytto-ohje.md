@@ -39,7 +39,4 @@ Videopelit | Shigeru Miyamoto
 
 Tässä esimerkki lähdekoodin lisäämisestä. Tämä on kätevä, kun halutaan näyttää pätkiä lähdekoodista.
 
-`1. Listan ensimmäinen jäsen
-2. Toinen jäsen
-    * Toisen jäsenen alajäsen
-    * Toisen jäsenen toinen alajäsen`
+Aliaksia voi kirjoittaa tiedostoon `~/.bashrc`, missä `~` on kotihakemisto.
