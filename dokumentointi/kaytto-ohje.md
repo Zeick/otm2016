@@ -34,3 +34,12 @@ Sotatiede | Napoléon Bonaparte
 Tekniikka | Thomas Edison
 Psykologia | Sigmund Freud
 Videopelit | Shigeru Miyamoto
+
+### Lähdekoodia voi lisätä yläheittomerkkien väliin
+
+Tässä esimerkki lähdekoodin lisäämisestä. Tämä on kätevä, kun halutaan näyttää pätkiä lähdekoodista.
+
+`1. Listan ensimmäinen jäsen
+2. Toinen jäsen
+    * Toisen jäsenen alajäsen
+    * Toisen jäsenen toinen alajäsen`
