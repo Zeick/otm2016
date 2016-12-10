@@ -18,6 +18,26 @@ int main(void){
 }
 ```
 
+### Esimerkki Javasta
+```Java
+public class Salla{
+private int ika;
+private int pituus;
+private int paino;
+private String tutkinto;
+
+public Salla(int ika, int pituus, int paino, String tutkinto){
+    this.ika = ika;
+    this.pituus = pituus;
+    this.paino = paino;
+    this.tutkinto = tutkinto;
+}
+
+public int getIka(){
+    return this.ika;
+}
+```
+
 ### Kokeillaan seuraavaksi taulukoiden tekemistä Markdownilla
 
 Tieteenala | Tunnettu henkilö
