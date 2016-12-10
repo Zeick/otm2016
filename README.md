@@ -11,3 +11,6 @@ Aiemmin monet keskustelufoorumit tukivat UBB-koodia ja erityisesti FreeBok.net -
 * Kätevää
   * Onhan se
     * Heh :boom: Oho, emojitkin (?) toimivat!
+    
+> Suurten voimien mukana tulee suuri vastuu
+Näin sanoi Ben Parker 1960-luvulla.
