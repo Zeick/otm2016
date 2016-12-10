@@ -14,3 +14,9 @@ Aiemmin monet keskustelufoorumit tukivat UBB-koodia ja erityisesti FreeBok.net -
     
 > Suurten voimien mukana tulee suuri vastuu
 > - Ben Parker.
+
+## Toinen alaotsikko: tehtävälistat!
+
+- [x] Tee GitHub-repositorio ja työnnä sinne kamaa
+- [ ] Aloita yhteistyö jonkun ohjelmoinnista kiinnostuneen ihmisen kanssa
+- [ ] Keksi miten tehtävälistasta saa interaktiivisen eli vuorovaikutteisen
